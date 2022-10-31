@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(166, 84, 189);
+    text-emphasis-color: rgb(0, 0, 0);
+}
+
+table{
+	margin-top: 60px;
+	text-align: left;
+	background: rgb(132, 132, 37);
+	color: rgb(54, 11, 11);
+}
+
+#show th, #show td{
+	padding: 20px;
+}
+
+#btna td input{
+	width: 100%;
+    color: rgb(0, 0, 0);
+}
+
